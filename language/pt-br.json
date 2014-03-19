@@ -6,22 +6,17 @@
   "loadingVideo": "Carregando o vídeo, por favor aguarde.",
   "searchLoading": "Procurando...",
   "noResults": "Nenhum resultado encontrado.",
-
   "search": "Procurar",
   "movies": "Filmes",
-
-  "subtitledIn": "Legendas em",
+  "subtitledIn": "Legendado em",
   "quality": "Qualidade",
   "watchItNow": "Assistir agora",
   "durationUnit": "min",
-
   "connecting": "Conectando...",
   "startingDownload": "Começando o download...",
   "downloading": "Baixando...",
-
   "UpgradeVersion": "Atualizar Popcorn Time",
   "UpgradeVersionDescription": "Popcorn Time %s acaba de ser lançado. Atualize agora!",
-  
   "legalDisclaimer": "Popcorn Time baixa e compartilha arquivos usando torrents, isso pode não ser legal em seu país.",
   "legalDisclaimerResponsible": "Não nos responsabilizamos por eventuais problemas, então esteja ciente de nossos Termos e Condições antes de utilizar o aplicativo.",
   "legalDisclaimerAccept": "Eu compreendo",
